@@ -30,7 +30,7 @@ const values:Array<any> =  [
     {title:"NOGA_SE",description:descriptSe,technologies:["PHP"],image:noga_se,link:"https://github.com/Noga-ng/Noga_SE",views:false},
     {title:"NOGA_Router",description:descriptRoute,technologies:["PHP"],image:Routerhttp,link:"https://github.com/Noga-ng/Noga_Http",views:false},
     {title:"NOGA_http",description:descriptHt,technologies:["Typescript","Javascript"],image:httpC,link:"https://github.com/Noga-ng/Noga_CH",views:false},
-    {title:"G_APP",description:"c'est un application web specialisé dans les gestions des membres.",technologies:["PHP","JS","HTML5","CSS3"],image:gDashboard,link:"",views:true},
+    {title:"G_APP",description:"Une application web PHP monolithique (back-office / gestion de membres) qui sert de front-end et d’interface d’administration pour gérer membres, paiements, rapports et fichiers.",technologies:["PHP","JS","HTML5","CSS3"],image:gDashboard,link:"",views:true},
 ];
 
 
